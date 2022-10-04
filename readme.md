@@ -1,5 +1,5 @@
 # Analog Clock | NUYsDev 🖥️
-## [Preview](https://rhr3032.github.io/Analog_Clock/) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/Analog_Clock_02/) | [UI Design](#)
 
 
 ### Include this Project ➡️
